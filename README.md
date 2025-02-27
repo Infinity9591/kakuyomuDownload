@@ -9,7 +9,7 @@ Install Microsoft Edge (Require).
 
 Launch 'pip install -r requirements.txt'
 
-Launch with 'python kakuyomu.py'
+Launch with 'py kakuyomu.py'
 
 Enter the serie number when asked (without spaces):
 
