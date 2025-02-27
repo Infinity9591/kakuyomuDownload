@@ -1,0 +1,12 @@
+###### Requirements without Version Specifiers ######`
+beautifulsoup4
+bs4
+cookiejar
+mechanize
+requests_html
+PyQt5
+selenium
+time
+
+###### Requirements with Version Specifiers ######`
+requests~=2.25      # Compatible release.
